@@ -22,7 +22,7 @@ title: Welkom op Technische Natuurkunde
 email: 22154787@student.hhs.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Deze website is bedoeld om de studenten Technische Natuurkunde een 
-duidelijker beeld te geven van de stof van het eerste jaar.
+  duidelijker beeld te geven van de stof van het eerste jaar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.technischenatuurkunde.com"
 twitter_username: ArthurRoss
