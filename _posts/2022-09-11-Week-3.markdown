@@ -3,7 +3,10 @@ layout: post
 title: 'I love Physics!'
 image: /assets/img/physics.jpg
 ---
-
+{% include image.html
+            img="/assets/img/physics.jpg"
+            title="title for image"
+            caption="tekening" %}
 <html>
 <body>
 
@@ -44,8 +47,7 @@ src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
       </mrow>
     </mfrac>
   </mrow>
-</math>Een van 
-de meest belangrijke formules is uiteraard de ABC formule.
+</math>Een van de meest belangrijke formules is uiteraard de ABC formule.
 </body>
 </html>
 

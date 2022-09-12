@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Over de Studie
+title: De Haagse Hogeschool Delft
 permalink: /about/
 ---
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img src="{{site.baseurl}}/assets/img/haagsehogeschool.png">
 
 Technische Natuurkunde is voornamelijk gericht op het toepassen van de 
 natuurkunde door de studenten. Wiskunde staat hoog in het vaandel en wordt 
@@ -15,6 +23,9 @@ Warmteleer is een ander vak gegeven in de eerste periode.
 Ten slotte heb je nog Mechanica en Oriëntatie en Begeleiding.
 De boeken die je nodig hebt voor het eerste semester zijn: Toegepaste 
 Wiskunde voor het hoger onderwijs deel 1 en Natuurkunde van Giancoli.
+
+<img src="{{site.baseurl}}/assets/img/giancoli.jpeg" alt="Giancoli" class="center">
+
 Ik raad je aan om ook deel 2 van Toegepaste Wiskunde aan te schaffen, dat 
 is makkelijker dan de opgaven op je laptop te maken. 
 Wetenschappelijk onderwijs en Hoger Beroepsonderwijs verschillen enigzins 
