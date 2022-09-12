@@ -3,10 +3,6 @@ layout: post
 title: 'I love Physics!'
 image: /assets/img/physics.jpg
 ---
-{% include image.html
-            img="/assets/img/physics.jpg"
-            title="title for image"
-            caption="tekening" %}
 <html>
 <body>
 
