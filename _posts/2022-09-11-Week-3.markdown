@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'I love Physics!'
+image: /assets/img/physics.jpg
 ---
+
 <html>
 <body>
 
@@ -44,7 +46,6 @@ src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
   </mrow>
 </math>Een van 
 de meest belangrijke formules is uiteraard de ABC formule.
-
 </body>
 </html>
 
