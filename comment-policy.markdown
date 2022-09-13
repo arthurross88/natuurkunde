@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comment Policy
-permalink: /Comment-Policy/
+title: comment policy
+permalink: /comment-policy/
 ---
 
 Wees respectvol en eerlijk.
