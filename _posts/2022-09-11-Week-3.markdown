@@ -2,6 +2,7 @@
 layout: post
 title: 'I love Physics!'
 image: /assets/img/physics.jpg
+youtubeId: xnzB_IHGyjg
 ---
 <html>
 <body>
@@ -16,7 +17,7 @@ src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
 
   gtag('config', 'G-ZXN9ZHQW1N');
 </script>
-
+{% include youtubePlayer.html id=page.youtubeId %}
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mi>x</mi>
   <mo>=</mo>
