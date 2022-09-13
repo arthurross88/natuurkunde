@@ -9,6 +9,8 @@ comments: true
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
+
+
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION 
@@ -33,5 +35,4 @@ with your page's unique identifier variable
 <noscript>Please enable JavaScript to view the <a 
 href="https://disqus.com/?ref_noscript">comments powered by 
 Disqus.</a></noscript>
-
 {% endif %}
