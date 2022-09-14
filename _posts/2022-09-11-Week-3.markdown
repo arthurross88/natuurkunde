@@ -3,6 +3,7 @@ layout: post
 title: 'I love Physics!'
 image: /assets/img/physics.jpg
 youtubeId: xnzB_IHGyjg
+comments: true
 ---
 <html>
 <body>
