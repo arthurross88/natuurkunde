@@ -7,7 +7,6 @@ comments: true
 ---
 <html>
 <body>
-
 <!-- Google tag (gtag.js) -->
 <script async 
 src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
@@ -19,6 +18,7 @@ src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
   gtag('config', 'G-ZXN9ZHQW1N');
 </script>
 {% include youtubePlayer.html id=page.youtubeId %}
+<p>
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mi>x</mi>
   <mo>=</mo>
@@ -45,7 +45,10 @@ src="https://www.googletagmanager.com/gtag/js?id=G-ZXN9ZHQW1N"></script>
       </mrow>
     </mfrac>
   </mrow>
-</math>Een van de meest belangrijke formules is uiteraard de ABC formule.
+</math>
+Een van de meest belangrijke formules is uiteraard de ABC formule.
+</p>
+{% include disqus.html %}
 </body>
 </html>
 
